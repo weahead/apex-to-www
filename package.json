@@ -1,0 +1,21 @@
+{
+  "name": "apex-to-www",
+  "bin": "./server.js",
+  "version": "1.0.0",
+  "description": "Node.js server that redirects incoming traffic on apex/naked domain to www subdomain dynamically with a configurable status code.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weahead/apex-to-www.git"
+  },
+  "author": "We ahead AB <alla@weahead.se>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/weahead/apex-to-www/issues"
+  },
+  "homepage": "https://github.com/weahead/apex-to-www#readme",
+  "dependencies": {}
+}

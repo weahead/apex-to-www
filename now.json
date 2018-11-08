@@ -1,0 +1,10 @@
+{
+  "name": "apex-to-www",
+  "type": "docker",
+  "features": {
+    "cloud": "v2"
+  },
+  "limits": {
+    "maxConcurrentReqs": 256
+  }
+}
